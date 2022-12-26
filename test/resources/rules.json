@@ -1,0 +1,6 @@
+[
+    {"name": "upcase-first", "enabled": true, "opts": {}},
+    {"name": "replace-with-special", "enabled": true, "opts": {"replace_map": {"a": "@", "o": "0"}}},
+    {"name": "prepend-special", "enabled": false, "opts": {"prefixes": ["#", "_", "@", "1"]}},
+    {"name": "append-special", "enabled": true, "opts": {"suffixes": ["#", "_", "@", "1"]}}
+]

@@ -1,0 +1,4 @@
+password
+hello world
+привет мир
+сложный пароль
